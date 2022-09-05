@@ -1,0 +1,1 @@
+shape: ['(K + 1)', '6', '2', '8'], new_name: C_reg
